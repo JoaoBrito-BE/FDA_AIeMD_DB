@@ -1,0 +1,20 @@
+k_number,device,char_count,has_sensitivity,has_specificity,has_auc,has_accuracy,percentage_count
+K250569,Cardiologs Holter Platform,10497,False,False,False,False,0
+K192377,"Ethos Treatment Management, Ethos Treatment Planning, Ethos Radiotherapy System, Halcyon",17493,False,False,False,False,0
+K233955,Clarius OB AI,35105,False,False,False,True,6
+K242188,ClearRead CT CAC,23147,False,False,False,True,1
+K203448,uCT ATLAS with uWS-CT-Dual Energy Analysis,21059,False,False,False,False,0
+K223180,AIRAscore,15213,False,False,False,True,0
+K223490,FlightPlan for Embolization,18672,False,False,False,False,4
+K233692,"Voluson Signature 20, Voluson Signature 18",15790,False,False,False,False,0
+K251639,xvision Spine system,17141,False,False,False,True,0
+K233677,Biograph VK10,19100,True,False,False,True,8
+K242403,Aquilion ONE (TSX-308A/3) V1.5,16038,True,False,False,True,0
+K210438,Versana Premier,16219,False,False,False,False,0
+K191125,ADAS 3D,28715,False,False,False,True,0
+K243955,Precision AI Surgical Planning System (PAI-SPS),21874,False,False,False,True,0
+K181502,"Zio AT ECG Monitoring System, ZEUS System",15075,False,False,False,False,0
+K242583,AT-Patch (ATP-C130/ATP-C70),34931,True,False,False,True,4
+K251987,Rapid Aortic Measurements,25383,False,False,False,True,4
+K243933,Ceevra Reveal 3+,19326,False,False,False,True,6
+K252074,"Aplio i900, Aplio i800 and Aplio i700 Software V9.0 Diagnostic Ultrasound System",22610,False,False,False,False,0
