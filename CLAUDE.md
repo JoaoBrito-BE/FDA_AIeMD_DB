@@ -573,12 +573,5 @@ transparency = pd.read_sql("""
 """, conn)
 print(transparency)
 conn.close()
-```
 
-All the code will be reviewed by Codex
-
----
-
-*Last Updated: 2026-04-22*
-*Current Phase: Analysis & deliverable generation*
 *Priority: Validate classification accuracy, then extract quantitative metrics from Category A devices*
