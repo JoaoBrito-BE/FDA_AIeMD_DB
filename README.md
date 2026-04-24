@@ -394,4 +394,4 @@ The FDA device list and individual submissions change over time. Results reflect
 
 ## Acknowledgements
 
-This repository was developed with the assistance of [Claude Sonnet 4.6](https://www.anthropic.com/claude) (Anthropic), which supported code review, pipeline development, and document formatting throughout the project.
+This repository was developed with the assistance of Claude Sonnet 4.6, which supported code review, pipeline development, and document formatting throughout the project.
