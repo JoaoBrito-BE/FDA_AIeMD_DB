@@ -74,7 +74,7 @@ This project provides that view for the first time, to the best of our knowledge
 
 ## Evidence Categories
 
-To make sense of 1,430 submissions, each device was classified into one of four evidence categories based on what kind of performance data appears in its regulatory filing.
+To make sense of 1,430 submissions, each device was classified into one of four evidence categories based on the types of performance data present in its regulatory filing.
 
 ### Category A — Quantitative *(220 devices, 15.6%)*
 The submission reports specific numeric outcomes from clinical testing. Examples:
@@ -83,7 +83,7 @@ The submission reports specific numeric outcomes from clinical testing. Examples
 This is the most informative category. A clinician reading this submission knows exactly how well the device performed and in what kind of study.
 
 ### Category B — Qualitative *(920 devices, 65.3%)*
-The submission mentions that clinical testing occurred but gives no numbers. Examples:
+The submission mentions that clinical testing occurred, but gives no numbers. Examples:
 > *"Clinical performance was evaluated in a multi-site study. The device met all pre-specified performance criteria."*
 
 This is the most common category. Testing happened — we just can't see the results.
@@ -146,7 +146,7 @@ Specialties with smaller device counts tend to show higher quantitative rates �
 
 ### 4. Transparency Has Not Improved Over Time
 
-Despite growing public and regulatory attention to AI accountability, the *proportion* of devices reporting quantitative data has remained essentially flat over the past decade — hovering between 10% and 19% regardless of year.
+Despite growing public and regulatory attention to AI accountability, the *proportion* of devices reporting quantitative data has remained essentially flat over the past decade — hovering between 10% and 19% across years.
 
 The absolute number of quantitative submissions has grown (because total submissions have grown), but the rate has not. This suggests the growth of the AI medical device market has been led by products that provide minimal clinical evidence, rather than by an increase in rigor.
 
@@ -380,7 +380,7 @@ All performance metrics come from the manufacturers' own submissions. These are 
 This analysis reads the primary decision document for each submission. Some manufacturers submit detailed clinical data in supplemental appendices that were not captured here. This means our Category A rate may undercount actual quantitative reporting.
 
 **5. 510(k) vs PMA comparison**
-PMA devices serve fundamentally different clinical contexts than 510(k) devices (higher-risk, more novel technology). The transparency gap between pathways partly reflects genuine regulatory differences, not just manufacturer choices.
+PMA devices serve fundamentally different clinical contexts than 510(k) devices (higher-risk, more novel technology). The transparency gap between pathways partly reflects genuine regulatory differences rather than just manufacturer choices.
 
 **6. Snapshot in time**
 The FDA device list and individual submissions change over time. Results reflect the dataset as of early 2025.
